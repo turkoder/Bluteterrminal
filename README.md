@@ -1,8 +1,12 @@
 Açık kaynak kodlu , hc-06 Bluetooth modülü ile haberleşmek için yapılmış kısa bir uygulamadır. 
+ 
 Ardunio projenizde ledi yakıp söndürmek için gerekli olan A , W gibi komutlara olan ihtiyaç için yapılmıştır.
 Uygulamayı açınca bağlan butonu ile listelenen bluetooth cihazları listesinden hc-06 ya dokunup bağlantı yapılması sağlanır. 
+
 Akabinde gerekli mesaj gönderilerek komutlar icra edilir. 
+ 
 Ardunio ile nasıl kullanıldığını görmek için sitemizi inceleyebilirsiniz. https://www.bulmacasitesi.com.tr/bluetooth-uzerinden-led-kontrolunu-yapmak-13365-haber
+  
 Açık kaynak kodludur. 
 ![resim6](https://github.com/user-attachments/assets/5d95fcb6-febb-4286-abb2-0d0153ea3c21)
 ![resim5](https://github.com/user-attachments/assets/82ed7944-37aa-4472-80bf-54d334d2f4d2)
