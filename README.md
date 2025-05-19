@@ -5,7 +5,7 @@ Uygulamayı açınca bağlan butonu ile listelenen bluetooth cihazları listesin
 
 Akabinde gerekli mesaj gönderilerek komutlar icra edilir. 
  
-Ardunio ile nasıl kullanıldığını görmek için sitemizi inceleyebilirsiniz. https://www.bulmacasitesi.com.tr/bluetooth-uzerinden-led-kontrolunu-yapmak-13365-haber
+Ardunio ile nasıl kullanıldığını görmek için sitemizi inceleyebilirsiniz. https://www.bulmacasitesi.com.tr/bluetooth-uzerinden-led-kontrolunu-yapmak-13364-haber
   
 Açık kaynak kodludur. 
 ![resim6](https://github.com/user-attachments/assets/5d95fcb6-febb-4286-abb2-0d0153ea3c21)
